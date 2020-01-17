@@ -10,3 +10,4 @@ function AES(key,encrypt_key) {
     }).toString()
 }
 
+console.log(AES("221,32:1579253970660||219,24:1579254506338",'c28725d494c78ad782a6199c341630ee'))
